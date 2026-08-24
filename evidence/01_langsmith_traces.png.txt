@@ -1,0 +1,9 @@
+# Screenshot placeholder for LangSmith Traces
+# Please take a screenshot manually from: https://smith.langchain.com
+# 
+# Expected: Dashboard showing >= 50 traces from the RAG pipeline
+#
+# To capture:
+# 1. Go to https://smith.langchain.com
+# 2. Select project "day22-lab"
+# 3. Take screenshot of traces list (should show 50+ traces)

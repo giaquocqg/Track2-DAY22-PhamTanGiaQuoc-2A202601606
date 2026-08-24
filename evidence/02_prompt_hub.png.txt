@@ -1,0 +1,7 @@
+# Screenshot placeholder for LangSmith Prompt Hub
+# Please take a screenshot manually from: https://smith.langchain.com/prompts
+#
+# Expected: Prompt Hub showing 2 versions: my-rag-prompt-v1 and my-rag-prompt-v2
+#
+# Note: Due to API key permissions, prompts were saved locally.
+# The hub push failed with 403 Forbidden error.
