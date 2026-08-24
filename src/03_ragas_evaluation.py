@@ -23,9 +23,6 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-# Apply ragas patches trước khi import ragas
-import ragas_patch
-
 import config  # ⚠️ phải import trước LangChain
 
 import numpy as np

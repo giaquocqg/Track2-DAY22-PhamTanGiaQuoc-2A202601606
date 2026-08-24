@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "D:\VINUNI_AI2026\Giai đoạn 2 - Track 2\LAB\Track2-DAY22-PhamTanGiaQuoc-2A202601606\src\03_ragas_evaluation.py", line 31, in <module>
+    from ragas import evaluate, EvaluationDataset, SingleTurnSample
+  File "D:\VINUNI_AI2026\Giai đoạn 2 - Track 2\LAB\Track2-DAY22-PhamTanGiaQuoc-2A202601606\venv\Lib\site-packages\ragas\__init__.py", line 5, in <module>
+    from ragas.evaluation import aevaluate, evaluate
+  File "D:\VINUNI_AI2026\Giai đoạn 2 - Track 2\LAB\Track2-DAY22-PhamTanGiaQuoc-2A202601606\venv\Lib\site-packages\ragas\evaluation.py", line 31, in <module>
+    from ragas.llms import llm_factory
+  File "D:\VINUNI_AI2026\Giai đoạn 2 - Track 2\LAB\Track2-DAY22-PhamTanGiaQuoc-2A202601606\venv\Lib\site-packages\ragas\llms\__init__.py", line 1, in <module>
+    from ragas.llms.base import (
+    ...<7 lines>...
+    )
+  File "D:\VINUNI_AI2026\Giai đoạn 2 - Track 2\LAB\Track2-DAY22-PhamTanGiaQuoc-2A202601606\venv\Lib\site-packages\ragas\llms\base.py", line 12, in <module>
+    from langchain_community.chat_models.vertexai import ChatVertexAI
+ModuleNotFoundError: No module named 'langchain_community.chat_models.vertexai'
